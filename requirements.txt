@@ -1,0 +1,4 @@
+funcx
+requests
+fair_research_login
+globus_sdk
